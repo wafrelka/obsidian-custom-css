@@ -12,3 +12,8 @@ body {
   --h5-weight: 700;
   --h6-weight: 700;
 }
+
+/* revert the adjustment made by the Minimal theme */
+.nav-buttons-container {
+  justify-content: center;
+}
